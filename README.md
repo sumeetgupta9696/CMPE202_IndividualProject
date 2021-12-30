@@ -1,4 +1,4 @@
-#Individual Assignment - Stock Inventory
+# Individual Assignment - Stock Inventory
 
 Technologies- Java
 
