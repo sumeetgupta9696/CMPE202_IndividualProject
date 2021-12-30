@@ -1,4 +1,6 @@
-Assignment 2- Stock Inventory
+#Individual Assignment - Stock Inventory
+
+Technologies- Java
 
 How to run the project:
 1. If Java is already installed in your system the fine or else install java in your system.
